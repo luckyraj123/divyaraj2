@@ -25,7 +25,7 @@
           }
         });
       }
-      n["default"] = e;
+      ["default"] = e;
       return Object.freeze(n);
     }
   
