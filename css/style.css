@@ -124,11 +124,11 @@ body {
 
 #notification {
     background-color: red;
-    border: 1px solid red;
+    border: 0.5px solid red;
     border-radius: 50%;
     position: absolute;
     margin-top: -10%;
-    font-size: 12px;
+    font-size: 10px;
     width: 30%;
     text-align: center;
     color: white;
